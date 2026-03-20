@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qf/q8Nmy3SU=",
+  "success": true,
+  "projectFilePath": "/workspaces/order-management-api/src/OrderManagement.Application/OrderManagement.Application.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/mediatr/11.1.0/mediatr.11.1.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/mediatr.contracts/1.0.1/mediatr.contracts.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

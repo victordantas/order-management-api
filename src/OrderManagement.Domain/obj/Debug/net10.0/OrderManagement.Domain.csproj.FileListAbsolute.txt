@@ -1,0 +1,12 @@
+/workspaces/order-management-api/src/OrderManagement.Domain/obj/Debug/net10.0/OrderManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/order-management-api/src/OrderManagement.Domain/obj/Debug/net10.0/OrderManagement.Domain.AssemblyInfoInputs.cache
+/workspaces/order-management-api/src/OrderManagement.Domain/obj/Debug/net10.0/OrderManagement.Domain.AssemblyInfo.cs
+/workspaces/order-management-api/src/OrderManagement.Domain/obj/Debug/net10.0/OrderManagement.Domain.csproj.CoreCompileInputs.cache
+/workspaces/order-management-api/src/OrderManagement.Domain/obj/Debug/net10.0/OrderManagement.Domain.sourcelink.json
+/workspaces/order-management-api/src/OrderManagement.Domain/bin/Debug/net10.0/OrderManagement.Domain.deps.json
+/workspaces/order-management-api/src/OrderManagement.Domain/bin/Debug/net10.0/OrderManagement.Domain.dll
+/workspaces/order-management-api/src/OrderManagement.Domain/bin/Debug/net10.0/OrderManagement.Domain.pdb
+/workspaces/order-management-api/src/OrderManagement.Domain/obj/Debug/net10.0/OrderManagement.Domain.dll
+/workspaces/order-management-api/src/OrderManagement.Domain/obj/Debug/net10.0/refint/OrderManagement.Domain.dll
+/workspaces/order-management-api/src/OrderManagement.Domain/obj/Debug/net10.0/OrderManagement.Domain.pdb
+/workspaces/order-management-api/src/OrderManagement.Domain/obj/Debug/net10.0/ref/OrderManagement.Domain.dll
